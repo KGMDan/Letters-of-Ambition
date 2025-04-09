@@ -71,7 +71,7 @@ Begin your campaign with a live, collaborative session (voice/video preferred) t
 3. **Flashpoints**  
     Establish **potential points of conflict**: social unrest, political succession, forbidden knowledge, unstable magic, economic collapse, etc. These serve as narrative fuel that may ignite during the game.
 
-## [[Elimination]]
+## [Elimination](https://github.com/KGMDan/Letters-of-Ambition/blob/main/Elimination.md)
 If your **dark secret is discovered**, you are **eliminated** from the game. This could mean public disgrace, assassination, exile, imprisonment—whatever the fiction demands. The consequences are real and final.
 
 ## Slow Play for Deep Drama
