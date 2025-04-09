@@ -8,7 +8,7 @@ Public and shared with all players. This is your character’s goal—why they w
 
 ---
 
-## [[Character Letters]] & [[The Host & World Letters]]
+## [Character Letters](https://github.com/KGMDan/Letters-of-Ambition/blob/main/Character-Letters.md) & [[The Host & World Letters]]
 The game unfolds entirely through **letters**, written in-character and shared among players.
 ### The Rotating Host
 Each week, one player becomes the **Host**. The Host writes **two letters per day**:
