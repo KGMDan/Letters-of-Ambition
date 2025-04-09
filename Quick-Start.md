@@ -1,5 +1,5 @@
 _A slow-burn, epistolary TTRPG of secrets, desires, and handwritten schemes._
-## [[Character Creation]]
+## [Character Creation](/Letters-of-Ambition/Character-Creation.md)
 Every player creates a character defined by two traits:
 ### Dark Secret
 Known **only** to you. It is the heart of your character’s identity and a dangerous truth that, if exposed, could ruin you. Protect it at all costs.
