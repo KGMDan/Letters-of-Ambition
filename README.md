@@ -62,7 +62,7 @@ Use these sparingly; they are **major world-shifting events**.
 ## Letters Must Be Physical
 As part of the game’s immersive, anti-AI aesthetic, **All letters must be handwritten, scanned, or photographed.** Your handwriting becomes part of your character's voice—flourished or frantic, elegant or crude.
 
-## Session Zero: [[Building the World]]
+## Session Zero: [Building the World](https://github.com/KGMDan/Letters-of-Ambition/blob/main/New-World.md)
 Begin your campaign with a live, collaborative session (voice/video preferred) to flesh out the setting:
 1. **The World**  
     Is it fantastical or mundane? Magical, post-apocalyptic, political intrigue, or steampunk noir? Decide the tone and genre together.
