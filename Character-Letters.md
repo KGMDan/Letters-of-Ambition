@@ -11,7 +11,7 @@ Before you write a single word, ground yourself in your character:
     Ask yourself: _Is this letter helping me rise, deceive, gain influence, or strike first?_
 
 Keep these two core truths at the heart of your correspondence. When your lost look back to you characters core and the letters you've already written!
-### [[Card Draw]]: The Prompt
+### [Card Draw](https://github.com/KGMDan/Letters-of-Ambition/blob/main/Cards.md): The Prompt
 Each letter is guided by a **single playing card**. This gives shape to your writing. It’s not a limitation—it’s an **inspiration**. It suggests the tone, focus, and energy of your letter.
 
 #### The Value (2–9) 
@@ -66,7 +66,7 @@ Your letter must be a **response to something in the World Letter**. This connec
 - A subtle detail: _"Who is this Marien Allweather, really?"_
 
 This becomes the **frame** for your letter. Your card gives it **flavor**. Your secret and ambition give it **purpose**.
-## Letters of [[Elimination]] & Blackmail
+## Letters of [Elimination](https://github.com/KGMDan/Letters-of-Ambition/blob/main/Elimination.md) & Blackmail
 Some letters are more dangerous than others. When you suspect a secret—or worse, when you **know**—your character may choose to act. These moments define the power and peril of the game. 
 
 A **letter of elimination** is a public accusation. It must reveal, with specificity, the **nature of the target's Dark Secret**. This is not a vague threat—it is a blade laid bare in writing.
