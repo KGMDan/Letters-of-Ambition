@@ -48,8 +48,7 @@ The **Host** plays a central role in moving the story forward and shaping the wo
 - **Record Everything:** Keep detailed notes of your world-building decisions, especially important landmarks, factions, flashpoints, and rules. This will provide continuity and a reference point when writing letters.
 - **Create a Shared Document:** Consider keeping a shared document, wiki, or map where you can track key events, characters, and evolving storylines.
 - **Stay Flexible:** The world is a living entity. As the game progresses, it should evolve based on character actions, secrets, and ambitions.
-# Example World
-## The World: Darsis
+## Example World: Darsis
 
 ### Tone & Genre
 - **Genre:** Dark Fantasy, Political Intrigue
