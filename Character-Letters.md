@@ -28,6 +28,7 @@ Determines the core focus of your letter:
 |♦️ Diamonds|Wealth & Resources|Money, status, property, luxury, scarcity|
 |♣️ Clubs|Conflict & Danger|Threats, violence, strategy, suspicion|
 |♠️ Spades|Your Secret|Lies, revelations, paranoia, concealment|
+
 **Interpret Freely!** You don’t have to write literally about “money” or “fighting.” Use the theme to color your message:
 - A **3 of Diamonds** might be a gentle comment on someone’s spending habits.
 - A **9 of Spades** might be a frantic attempt to throw suspicion off your trail!
