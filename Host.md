@@ -37,7 +37,7 @@ Return to the **Flashpoints** your group defined during Session Zero—the polit
 - “A royal inspector is due to arrive next week. Some fear what he’ll uncover.”
 
 Flashpoints should simmer and escalate slowly—players may try to accelerate or contain them through their actions.
-#### The Host's [[Card Draw]]
+#### The Host's [Card Draw](https://github.com/KGMDan/Letters-of-Ambition/blob/main/Cards.md)
 The Host also draws a card for the World Letter, just like everyone else. The **suit and value** affect how intense or themed the events are:
 
 - A **6 of Diamonds** might mean a moderate financial disruption—a loan called in, or a scandal involving wealth.
