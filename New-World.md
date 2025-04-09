@@ -48,3 +48,39 @@ The **Host** plays a central role in moving the story forward and shaping the wo
 - **Record Everything:** Keep detailed notes of your world-building decisions, especially important landmarks, factions, flashpoints, and rules. This will provide continuity and a reference point when writing letters.
 - **Create a Shared Document:** Consider keeping a shared document, wiki, or map where you can track key events, characters, and evolving storylines.
 - **Stay Flexible:** The world is a living entity. As the game progresses, it should evolve based on character actions, secrets, and ambitions.
+# Example World
+## The World: Darsis
+
+### Tone & Genre
+- **Genre:** Dark Fantasy, Political Intrigue
+- **Tone:** Gritty, dangerous, and filled with hidden magic and betrayal. The world feels tense, as if it’s on the edge of some catastrophic collapse. Power struggles are constant, and everyone seems to have something to hide.
+
+Darsis is a world where **ancient forces** stir beneath the surface, but the common folk are more concerned with day-to-day survival. A **fading empire** is caught in the grip of infighting, with powerful factions vying for control. The streets are full of whispers, and no one is entirely trustworthy. Magic exists, but it is rare and feared, often leading to corruption or destruction. The elite rule from their towering citadels, while the common folk scrape by in the shadows, forced to navigate the ever-present threat of rebellion or revolution.
+### The Setting: The City of Kaldryn
+Kaldryn is a sprawling city-state that was once the capital of a mighty empire. It sits on the edge of the **Ironreach Sea**, surrounded by **blasted plains** to the west and **dense forests** to the north. The city is a maze of winding alleys, grand estates, and decaying ruins from the empire's former glory. The air is thick with **smog** from the factories, and the streets are alive with a sense of **distrust**.
+#### Key Locations
+- **The Ironspire:** The towering **palace** of the ruling monarch, where power is contested by a collection of noble families and advisors. It is the seat of all political decisions but also the center of **secrecy** and **treachery**.
+- **The Silent Market:** A shadowy **black market** located beneath the city’s surface. It is a place where forbidden magic is sold, along with illicit goods, information, and assassination services.
+- **The Red Citadel:** A once-grand library of magical knowledge, now abandoned and slowly rotting. It is rumored to hold **forbidden tomes** and relics from the ancient days of the empire. Many believe it is cursed.
+- **Sable Heights:** A decaying district where the **poorest** of Kaldryn’s population live, often caught in the crossfire of gang violence, political corruption, and famine. However, there are whispers of **rebellion** rising in the shadows.
+
+#### Factions & Power Structures
+- **The Golden House:** The ruling family that controls the Ironspire. They are known for their **opulent** lifestyle, but beneath the surface, they are corrupt and divisive. Several branches of the family fight for the throne, and intrigue runs rampant.
+- **The Guild of Shadows:** A secretive **criminal syndicate** that controls the black market and illicit trade. They are rumored to have ties to the nobility and operate both openly and in the shadows.
+- **The Mage's Circle:** A once-powerful order of sorcerers that governed the use of magic in the empire. Now, scattered and fragmented, they operate in secret. Some believe they seek to regain their lost influence, while others fear they might unleash forbidden magic.
+- **The Commoners' Coalition:** A growing political movement of workers, artisans, and former soldiers who demand better conditions and more rights for the poor. They are currently organizing protests and strikes throughout the city.
+### Flashpoints: Sources of Tension
+Flashpoints are the key **conflicts** and **tensions** that could ignite throughout the campaign. They are the sources of **drama** that will fuel your character's ambitions and shape the world.
+- **Succession Crisis:** The current ruler of Kaldryn, **Queen Selene**, is growing old and without a clear heir. Her death would leave the throne open, and numerous factions are vying to place their own candidates on the throne. This power struggle is only escalating.
+- **Forbidden Magic Awakens:** Deep in the **Red Citadel**, ancient magical relics are said to be stirring. Some believe the magic will bring great power, while others fear it will cause a catastrophe. Some factions seek to unlock its secrets, while others wish to destroy it before it can escape.
+- **Gang War in Sable Heights:** The two largest gangs in Kaldryn, the **Iron Fangs** and the **Crimson Talons**, are on the brink of an all-out war. The fighting in the slums is spilling over into the streets, threatening the fragile peace the city has left.
+- **The Rebellion Brews:** The **Commoners' Coalition** has grown bold, and whispers of revolution are spreading through the lower districts. Protests are becoming more frequent, and several prominent leaders have started talking about overthrowing the current ruling elite. The question is whether the rebellion will be peaceful or violent—and who will support it.
+- **A Corrupted Noble:** One of the noble houses, **House Vasari**, is rumored to have struck a deal with the Guild of Shadows, using their criminal connections to smuggle contraband into the city. However, this relationship is becoming public knowledge, and there’s fear that this house will fall—or that someone will expose their dirty dealings.
+### Flashpoint Examples to Incorporate
+- **Magical Plague:** A mysterious plague is spreading through the lower districts, with symptoms that mirror an ancient curse once used by the empire's sorcerers. Some believe the Mage’s Circle is involved, while others blame the Guild of Shadows. What is the source, and can it be stopped before it spreads further?
+- **Missing Royals:** The heir to the throne, **Prince Alaric**, has gone missing. Some say he’s dead, others say he’s been kidnapped or hidden away. His disappearance has sparked a race between factions to find him first—alive or dead.
+- **A Doomed Marriage:** The daughter of one of the most powerful noble families, **Lady Aurelia**, is to marry a prince from a neighboring kingdom. However, rumors swirl that the marriage is a cover-up for a **political alliance** between two hostile houses. What’s the true nature of this union, and who stands to gain from it?
+### Final Notes for World Building:
+- **Collaborate & Refine:** Your world will grow and change as the story develops, so don’t be afraid to make adjustments later. Allow room for mystery, ambiguity, and discovery!
+- **Track Key Events:** As the game progresses, keep a record of major events and shifts in the world, as these will guide the flow of your characters’ letters and decisions.
+- **Create a Shared Document:** Having a shared document or wiki to keep track of the world’s details, locations, factions, and flashpoints is a great way to stay organized.
