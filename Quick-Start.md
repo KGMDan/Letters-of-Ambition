@@ -6,8 +6,6 @@ Known **only** to you. It is the heart of your character’s identity and a dang
 ### Grand Ambition
 Public and shared with all players. This is your character’s goal—why they write letters, what they hope to accomplish, and the power they seek.
 
----
-
 ## [Character Letters](https://github.com/KGMDan/Letters-of-Ambition/blob/main/Character-Letters.md) & [The Host & World Letters](https://github.com/KGMDan/Letters-of-Ambition/blob/main/Host.md)
 The game unfolds entirely through **letters**, written in-character and shared among players.
 ### The Rotating Host
@@ -19,7 +17,6 @@ Each week, one player becomes the **Host**. The Host writes **two letters per da
 
 **Important:** The World Letter must be sent **first** each week to give players proper narrative context and inspiration.
 
----
 ## The [Card Draw](https://github.com/KGMDan/Letters-of-Ambition/blob/main/Cards.md)
 Every time a player writes a letter, they draw a **single card** from a standard deck (including Jokers). This card defines the **theme** and **tone** of their letter.
 ### Number Cards (2–9): Strength of Theme
@@ -33,8 +30,7 @@ Every time a player writes a letter, they draw a **single card** from a standard
 
 When you draw a card, its **suit defines the core theme** of your letter. The **value determines how strong or disruptive** that theme is.
 
----
-## Aces – Specific Actions (Mandatory)
+### Aces – Specific Actions (Mandatory)
 Aces override the usual structure. You **must** include the following action in your letter:
 - **Ace of Hearts** – _Heart Revealed_  
     You feel compelled to confess something personal or emotional—an admission of guilt, love, or fear.
@@ -45,9 +41,7 @@ Aces override the usual structure. You **must** include the following action in 
 - **Ace of Spades** – _Unwelcome Truth_  
     You uncover something that conflicts with your secret or your ambition. How do you handle it?
 
----
-
-## Face Cards – Broader Complications
+### Face Cards – Broader Complications
 These cards carry **narrative weight** and introduce a shift in tone or perception:
 - **Jack** – _Shadows Move_  
     You feel watched. Someone may be spying on you, or you sense danger lurking just out of view.
@@ -57,9 +51,7 @@ These cards carry **narrative weight** and introduce a shift in tone or percepti
     Your actions—or inaction—have drawn attention. Someone, somewhere, is watching.  
     Your letter must reflect this shift: Are you being praised? Feared? Targeted?
 
----
-
-## Jokers – Wild Events
+### Jokers – Wild Events
 - **Red Joker** – _A Miracle Occurs_  
     Something wondrous or impossible happens—positive, surreal, or divine.
 - **Black Joker** – _A Catastrophe Strikes_  
@@ -67,12 +59,9 @@ These cards carry **narrative weight** and introduce a shift in tone or percepti
 
 Use these sparingly; they are **major world-shifting events**.
 
----
-
 ## Letters Must Be Physical
 As part of the game’s immersive, anti-AI aesthetic, **All letters must be handwritten, scanned, or photographed.** Your handwriting becomes part of your character's voice—flourished or frantic, elegant or crude.
 
----
 ## Session Zero: [[Building the World]]
 Begin your campaign with a live, collaborative session (voice/video preferred) to flesh out the setting:
 1. **The World**  
@@ -82,11 +71,9 @@ Begin your campaign with a live, collaborative session (voice/video preferred) t
 3. **Flashpoints**  
     Establish **potential points of conflict**: social unrest, political succession, forbidden knowledge, unstable magic, economic collapse, etc. These serve as narrative fuel that may ignite during the game.
 
----
 ## [[Elimination]]
 If your **dark secret is discovered**, you are **eliminated** from the game. This could mean public disgrace, assassination, exile, imprisonment—whatever the fiction demands. The consequences are real and final.
 
----
 ## Slow Play for Deep Drama
 This is a game of **long arcs**, **slow tension**, and **intimate revelations**. Letters might be poetic, rambling, clipped, or desperate. Secrets will slip. Alliances will shift.
 
