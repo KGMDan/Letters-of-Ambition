@@ -20,7 +20,7 @@ Each week, one player becomes the **Host**. The Host writes **two letters per da
 **Important:** The World Letter must be sent **first** each week to give players proper narrative context and inspiration.
 
 ---
-## The [[Card Draw]]
+## The [Card Draw](https://github.com/KGMDan/Letters-of-Ambition/blob/main/Cards.md)
 Every time a player writes a letter, they draw a **single card** from a standard deck (including Jokers). This card defines the **theme** and **tone** of their letter.
 ### Number Cards (2–9): Strength of Theme
 - **2** – Subtle or faint influence
