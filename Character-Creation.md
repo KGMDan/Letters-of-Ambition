@@ -15,7 +15,7 @@ Your Dark Secret is **private**—no one but you should know it. It defines who 
 
 The world doesn't need to know everything yet—but you must know. Write it down and keep it secret.
 
-The Dark Secret is a way to causes trouble for your character, any one that knows it can use it against you blackmailing you with it. If a player elect to openly uncover your secret to the whole group your character faces [[Elimination]], the untimely end of you story!
+The Dark Secret is a way to causes trouble for your character, any one that knows it can use it against you blackmailing you with it. If a player elect to openly uncover your secret to the whole group your character faces [Elimination](https://github.com/KGMDan/Letters-of-Ambition/blob/main/Elimination.md), the untimely end of you story!
 ### Grand Ambition
 This is **public**—shared with the group. It defines what your character is striving for and why they write letters. It should be big, dramatic, and compelling. You're not writing idle correspondence—you are moving toward a **goal**.
 
