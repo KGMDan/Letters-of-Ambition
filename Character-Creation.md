@@ -1,3 +1,4 @@
+# Character Creation
 Each player steps into the world through the voice of a single character—a person with **something to hide** and **something they want deeply**.
 
 Your letters will be shaped by these twin forces:
